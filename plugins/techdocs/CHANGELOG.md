@@ -1,5 +1,17 @@
 # @backstage/plugin-techdocs
 
+## 0.10.3
+
+### Patch Changes
+
+- 260c053b9: Fix All Material UI Warnings
+- db58cf06c: Avoid sanitize safe links in the header of document pages.
+- Updated dependencies
+  - @backstage/config@0.1.6
+  - @backstage/core-components@0.2.1
+  - @backstage/core-plugin-api@0.1.5
+  - @backstage/integration@0.5.9
+
 ## 0.10.2
 
 ### Patch Changes

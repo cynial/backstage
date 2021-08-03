@@ -1,5 +1,20 @@
 # example-backend
 
+## 0.2.40
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-common@0.8.8
+  - @backstage/config@0.1.6
+  - @backstage/plugin-kubernetes-backend@0.3.13
+  - @backstage/integration@0.5.9
+  - @backstage/plugin-scaffolder-backend@0.14.2
+  - @backstage/plugin-techdocs-backend@0.9.1
+  - @backstage/plugin-search-backend-module-elasticsearch@0.1.0
+  - @backstage/plugin-search-backend-node@0.4.1
+  - example-app@0.2.40
+
 ## 0.2.38
 
 ### Patch Changes

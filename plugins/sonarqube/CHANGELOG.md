@@ -1,5 +1,14 @@
 # @backstage/plugin-sonarqube
 
+## 0.1.24
+
+### Patch Changes
+
+- 260c053b9: Fix All Material UI Warnings
+- Updated dependencies
+  - @backstage/core-components@0.2.1
+  - @backstage/core-plugin-api@0.1.5
+
 ## 0.1.23
 
 ### Patch Changes

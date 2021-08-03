@@ -1,5 +1,24 @@
 # example-app
 
+## 0.2.40
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/cli@0.7.7
+  - @backstage/plugin-catalog@0.6.10
+  - @backstage/core-components@0.2.1
+  - @backstage/core-plugin-api@0.1.5
+  - @backstage/plugin-api-docs@0.6.5
+  - @backstage/plugin-scaffolder@0.10.3
+  - @backstage/plugin-search@0.4.6
+  - @backstage/plugin-cost-insights@0.11.3
+  - @backstage/plugin-kubernetes@0.4.10
+  - @backstage/plugin-lighthouse@0.2.22
+  - @backstage/plugin-pagerduty@0.3.10
+  - @backstage/plugin-techdocs@0.10.3
+  - @backstage/search-common@0.1.3
+
 ## 0.2.39
 
 ### Patch Changes

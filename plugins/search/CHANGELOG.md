@@ -1,5 +1,17 @@
 # @backstage/plugin-search
 
+## 0.4.6
+
+### Patch Changes
+
+- b917365cf: Change `<SearchType>` design to follow Figma and be similar to existing multi
+  selects in Backstage.
+- Updated dependencies
+  - @backstage/config@0.1.6
+  - @backstage/core-components@0.2.1
+  - @backstage/core-plugin-api@0.1.5
+  - @backstage/search-common@0.1.3
+
 ## 0.4.5
 
 ### Patch Changes

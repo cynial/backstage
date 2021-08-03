@@ -1,5 +1,15 @@
 # @backstage/plugin-lighthouse
 
+## 0.2.22
+
+### Patch Changes
+
+- 260c053b9: Fix All Material UI Warnings
+- Updated dependencies
+  - @backstage/config@0.1.6
+  - @backstage/core-components@0.2.1
+  - @backstage/core-plugin-api@0.1.5
+
 ## 0.2.21
 
 ### Patch Changes
