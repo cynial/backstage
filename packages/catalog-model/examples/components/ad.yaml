@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ad
+  description: Artist Lookup
+  tags:
+    - java
+    - data
+  links:
+    - url: https://example.com/user
+      title: Examples Users
+      icon: user
+spec:
+  type: service
+  lifecycle: experimental
+  owner: cy
+  system: artist-engagement-portal
+  dependsOn: ['component:podcast-api']
