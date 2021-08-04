@@ -15,4 +15,4 @@ spec:
   lifecycle: experimental
   owner: cy
   system: artist-engagement-portal
-  dependsOn: ['component:podcast-api']
+  dependsOn: ['component:www-artist']
