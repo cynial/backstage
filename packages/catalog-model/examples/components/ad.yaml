@@ -10,8 +10,6 @@ metadata:
     - url: https://example.com/user
       title: Examples Users
       icon: user
-annotations:
-  backstage.io/kubernetes-label-selector: 'app=checkoutservice'
 spec:
   type: service
   lifecycle: experimental
